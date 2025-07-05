@@ -1,13 +1,13 @@
-package com.cars24;
+package com.cars24.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Cars24BackendApplication {
+public class BackendApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Cars24BackendApplication.class, args);
+        SpringApplication.run(BackendApplication.class, args);
     }
 
 }

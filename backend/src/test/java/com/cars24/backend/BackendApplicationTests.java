@@ -1,10 +1,10 @@
-package com.cars24;
+package com.cars24.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Cars24BackendApplicationTests {
+class BackendApplicationTests {
 
     @Test
     void contextLoads() {
